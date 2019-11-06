@@ -1,4 +1,4 @@
-# Metoda-CPM-LOGISTYKA
+# Metoda CPM
 Program logistyczny wyznaczajacy sciezke krytyczna w grafie. 
 Scieżka krytyczna wyznaczna najkrótszy czas realizacji projektu. 
 
